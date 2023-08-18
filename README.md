@@ -1,3 +1,1 @@
 # Cohor26
-some text from Marina Danilov...
-bla-bla-bla
